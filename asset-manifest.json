@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/viz-legendre-polynomials/static/css/main.6ecd24f1.css",
-    "main.js": "/viz-legendre-polynomials/static/js/main.925b5d51.js",
+    "main.js": "/viz-legendre-polynomials/static/js/main.b10e9744.js",
     "index.html": "/viz-legendre-polynomials/index.html",
     "main.6ecd24f1.css.map": "/viz-legendre-polynomials/static/css/main.6ecd24f1.css.map",
-    "main.925b5d51.js.map": "/viz-legendre-polynomials/static/js/main.925b5d51.js.map"
+    "main.b10e9744.js.map": "/viz-legendre-polynomials/static/js/main.b10e9744.js.map"
   },
   "entrypoints": [
     "static/css/main.6ecd24f1.css",
-    "static/js/main.925b5d51.js"
+    "static/js/main.b10e9744.js"
   ]
 }
